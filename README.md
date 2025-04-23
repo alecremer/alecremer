@@ -68,6 +68,7 @@ Sou apaixonado por tecnologia, com experiência prática em robótica, IA embarc
   <img src="https://img.shields.io/badge/Windows-00A4EF?logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/FreeRTOS-00A4EF?logo=freertos&logoColor=white" />
 </p>
+
 ---
 
 ### 📊 Estatísticas do GitHub
