@@ -1,6 +1,6 @@
 # 🚀 Olá, seja bem-vindo ao meu perfil!
 
-**Robótica Móvel | Inteligência Artificial | Visão Computacional | Unity | C++ | Python | Sistemas Embarcados**
+**Robótica Móvel | IA | Visão Computacional | Unity | C++ | Python | Sistemas Embarcados**
 
 Sou apaixonado por tecnologia, com experiência prática em robótica, IA embarcada, sistemas visuais inteligentes e desenvolvimento de jogos com Unity. Aqui você encontra um pouco das tecnologias que utilizo no meu dia a dia:
 
@@ -19,6 +19,8 @@ Sou apaixonado por tecnologia, com experiência prática em robótica, IA embarc
 ### 💻 Linguagens de Programação
 <p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-004482?logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ladder%20Diagram-FF9E00?logo=plc&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Structured%20Text-006699?logo=plc&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-512BD4?logo=.net&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
