@@ -3,6 +3,16 @@
 **Mobile Robotics (ROS, ROS2, Firmware, Simulation) | AI | Computer vision | Unity | C++ | Python | Embedded systems**
 ---
 
+### 🤖 Robótica e Visão Computacional:
+<p align="left">
+  <img src="https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ROS2-004B87?logo=ros&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gazebo-40A2C2?logo=gazebo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Coppelia%20Sim-0079FF?logo=coppelia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Yolo-FF7139?logo=yolo&logoColor=white"/>
+</p>
+
 ### 💻 Linguagens de programação:
 <p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-004482?logo=c%2B%2B&logoColor=white"/>
