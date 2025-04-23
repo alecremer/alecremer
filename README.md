@@ -64,7 +64,7 @@ Sou apaixonado por tecnologia, com experiência prática em robótica, IA embarc
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecremer&layout=compact&theme=radical&count_private=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecremer&layout=compact&theme=radical&count_private=true?cache_seconds=1" width="45%" />
   <img src="https://github-readme-stats.vercel.app/api?username=alecremer&show_icons=true&count_private=true&hide_title=true&theme=radical" width="45%" />
 </p>
 
