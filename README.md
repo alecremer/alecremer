@@ -35,7 +35,10 @@ Sou apaixonado por tecnologia, com experiência prática em robótica, IA embarc
   <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?logo=raspberrypi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Orin%20Nano-76B900?logo=nvidia&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Intel%20FPGA-0071C5?logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tiva%20C-990000?logo=texasinstruments&logoColor=white" />
 </p>
+
 
 ### 📚 Frameworks e Bibliotecas
 <p align="left">
