@@ -66,7 +66,7 @@ Sou apaixonado por tecnologia, com experiência prática em robótica, IA embarc
   <img src="https://img.shields.io/badge/Linux-FF0000?logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows-00A4EF?logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/RTOS-7C42C5?logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/FreeRTOS-00A4EF?logo=freertos&logoColor=white" />
 </p>
 ---
 
