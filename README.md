@@ -3,6 +3,36 @@
 **Mobile Robotics (ROS, ROS2, Firmware, Simulation) | AI | Computer vision | Unity | C++ | Python | Embedded systems**
 ---
 
+### 💻 Linguagens de programação:
+<p align="left">
+  <img src="https://img.shields.io/badge/C%2B%2B-004482?logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-512BD4?logo=.net&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Assembly%20(ARM)-A7B6D5?logo=arm&logoColor=white"/>
+</p>
+
+### 📚 Frameworks e Bibliotecas:
+<p align="left">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kiwi-4F5D8D?logo=kiwi&logoColor=white"/>
+</p>
+
+### 🗄️ Banco de Dados:
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white"/>
+</p>
+
 ### 💻 Tecnologias que eu uso:
 <p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-004482?logo=c%2B%2B&logoColor=white"/>
