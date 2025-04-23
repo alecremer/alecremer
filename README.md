@@ -30,7 +30,6 @@ Sou apaixonado por tecnologia, com experiência prática em robótica, IA embarc
 
 ### 🖥️ Sistemas Embarcados
 <p align="left">
-  <img src="https://img.shields.io/badge/ESP32-3C99D4?logo=espressif&logoColor=white"/>
   <img src="https://img.shields.io/badge/ESP--IDF-3C99D4?logo=espressif&logoColor=white"/>
   <img src="https://img.shields.io/badge/PlatformIO-000000?logo=platformio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?logo=raspberrypi&logoColor=white"/>
