@@ -23,8 +23,17 @@
   <img src="https://img.shields.io/badge/Assembly%20(ARM)-A7B6D5?logo=arm&logoColor=white"/>
 </p>
 
+### 🖥️ Embarcados:
+<p align="left">
+  <img src="https://img.shields.io/badge/ESP32-3C99D4?logo=espressif&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP-IDF-3C99D4?logo=espressif&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PlatformIO-000000?logo=platformio&logoColor=white"/>
+</p>
+
+
 ### 📚 Frameworks e Bibliotecas:
 <p align="left">
+  <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black"/>
