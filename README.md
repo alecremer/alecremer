@@ -14,6 +14,7 @@ Sou apaixonado por tecnologia, com experiência prática em robótica, IA embarc
   <img src="https://img.shields.io/badge/Coppelia%20Sim-0079FF?logo=coppelia&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/Yolo-FF7139?logo=yolo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white"/>
 </p>
 
 ### 💻 Linguagens de Programação
@@ -51,7 +52,6 @@ Sou apaixonado por tecnologia, com experiência prática em robótica, IA embarc
   <img src="https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kiwi-4F5D8D?logo=kiwi&logoColor=white"/>
 </p>
 
 ### 🗄️ Banco de Dados
@@ -64,7 +64,6 @@ Sou apaixonado por tecnologia, com experiência prática em robótica, IA embarc
 ### 🖱️ **Sistemas Operacionais**
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FF0000?logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows-00A4EF?logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/FreeRTOS-00A4EF?logo=freertos&logoColor=white" />
 </p>
