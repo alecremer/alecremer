@@ -1,97 +1,101 @@
-# 🚀 Olá, seja bem-vindo ao futuro!
+# Alexandre Cremer
 
-**Robótica Móvel | IA | Visão Computacional | Unity | C++ | Python | Sistemas Embarcados**
+**Machine Learning Engineer | Robotics & Intelligent Systems Engineer**
 
-Sou apaixonado por tecnologia, com experiência prática em robótica, IA embarcada, sistemas visuais inteligentes e desenvolvimento de jogos com Unity. Aqui você encontra um pouco das tecnologias que utilizo no meu dia a dia:
+I design and build intelligent systems that connect machine learning, real-time robotics and embedded execution.
 
----
+My work spans the full AI development stack — from dataset engineering and assisted annotation pipelines to model training, architectural evaluation and integration into robotic systems operating in real environments.
 
-### 🤖 Robótica e Visão Computacional
-<p align="left">
-  <img src="https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ROS2-004B87?logo=ros&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gazebo-40A2C2?logo=gazebo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Coppelia%20Sim-0079FF?logo=coppelia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Yolo-FF7139?logo=yolo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white"/>
-</p>
-
-### 💻 Linguagens de Programação
-<p align="left">
-  <img src="https://img.shields.io/badge/C%2B%2B-004482?logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-512BD4?logo=.net&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Assembly%20(ARM)-A7B6D5?logo=arm&logoColor=white"/>
-</p>
-
-### 🖥️ Sistemas Embarcados
-<p align="left">
-  <img src="https://img.shields.io/badge/ESP--IDF-3C99D4?logo=espressif&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PlatformIO-000000?logo=platformio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?logo=raspberrypi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Orin%20Nano-76B900?logo=nvidia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Intel%20FPGA-0071C5?logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tiva%20C-990000?logo=texasinstruments&logoColor=white" />
-</p>
-
-
-### 📚 Frameworks e Bibliotecas
-<p align="left">
-  <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&logoColor=white"/>
-</p>
-
-### 🗄️ Banco de Dados
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white"/>
-</p>
-
-### 🖱️ **Sistemas Operacionais**
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-FF0000?logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-00A4EF?logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/FreeRTOS-00A4EF?logo=freertos&logoColor=white" />
-</p>
+I am particularly focused on perception systems for robotics and applied computer vision.
 
 ---
 
-### 📊 Estatísticas do GitHub
+## Core Technical Expertise
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecremer&layout=compact&theme=radical&count_private=true?cache_seconds=1" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=alecremer&show_icons=true&count_private=true&hide_title=true&theme=radical" width="45%" />
-</p>
+### Machine Learning & Computer Vision Systems
+
+- End-to-end vision pipeline development (annotation → training → evaluation → deployment)
+- YOLO-based detection and segmentation training
+- Transformer-based architectures (ViT-MAE, SETR-PUP, SWIN-UNET) experimentation
+- Architecture comparison and baseline analysis
+- Custom training loops and optimization experimentation
+- Model performance evaluation and stress testing
+- Dataset engineering and assisted annotation systems
+
+**Primary language:** Python  
 
 ---
 
-### 📫 Como me encontrar
-<p align="left">
-  <a href="mailto:ale.cremer.dev@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/alecremer/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
+### Robotics & Autonomous Systems Engineering
+
+- AGV development for indoor and outdoor environments
+- ROS and ROS2-based robotic systems
+- Navigation stack implementation and experimentation
+- Sensor integration and perception pipelines
+- Real-time HMI systems for robotic operation
+- Firmware development and embedded system integration
+
+**Primary language:** C++  
 
 ---
 
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
-</p>
+### Embedded & Industrial Systems
 
-<p align="center">
-  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/raw/main/src/images/animated-github-contribution-graph.gif" width="100%" />
-</p>
+- Firmware development and electronics integration
+- Industrial automation software (B&R systems)
+- Embedded AI experimentation on Nvidia Jetson Orin Nano
+- Real-time backend systems generated dynamically during execution
 
+---
+
+## Selected Projects
+
+### AI Development & Experimentation Framework  
+Development of a modular framework covering the full machine learning workflow:
+
+- Assisted annotation tools  
+- YOLO detection and segmentation training  
+- Transformer-based segmentation experiments  
+- Multi-model inference  
+- Dataset stress testing and architectural comparison  
+
+**Stack:** Python, PyTorch  
+
+---
+
+### AGV Development for Industrial Inspection  
+Full-stack contribution to an autonomous ground vehicle for substation inspection:
+
+- Mechanical and electronics integration  
+- Firmware development  
+- Real-time HMI system  
+- Navigation and control algorithms using ROS  
+
+**Stack:** C++, ROS  
+
+---
+
+### Research in AI Optimization  
+Ongoing research involving model optimization strategies and experimentation with training dynamics for improved convergence and performance.
+
+---
+
+## Current Focus
+
+- Vision architecture benchmarking (CNN vs Transformer-based models)
+- Dataset quality impact on segmentation performance
+- Learning-based perception integration in robotics
+- Optimization algorithms for neural network training
+
+---
+
+## Contact
+
+Open to roles in:
+
+- Machine Learning Engineering  
+- Robotics Software Engineering  
+- Intelligent Systems R&D  
+
+* **LinkedIn:** [linkedin.com/in/alecremer](https://www.linkedin.com/in/alecremer/)
+* **Email:** [ale.cremer.dev@gmail.com](mailto:ale.cremer.dev@gmail.com)
