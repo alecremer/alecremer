@@ -50,14 +50,16 @@ I am particularly focused on perception systems for robotics and applied compute
 
 ## Selected Projects
 
-### AI Development & Experimentation Framework  
+### Darkroom-CV (AI Development & Experimentation Framework)
 Development of a modular framework covering the full machine learning workflow:
 
 - Assisted annotation tools  
 - YOLO detection and segmentation training  
 - Transformer-based segmentation experiments  
 - Multi-model inference  
-- Dataset stress testing and architectural comparison  
+- Dataset stress testing and architectural comparison
+
+* **Link:** [Darkroom-cv]([https://www.linkedin.com/in/alecremer/](https://github.com/alecremer/Darkroom-CV))
 
 **Stack:** Python, PyTorch  
 
