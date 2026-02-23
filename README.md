@@ -59,7 +59,7 @@ Development of a modular framework covering the full machine learning workflow:
 - Multi-model inference  
 - Dataset stress testing and architectural comparison
 
-* **Link:** [Darkroom-cv]([https://www.linkedin.com/in/alecremer/](https://github.com/alecremer/Darkroom-CV))
+* **Link:** [Darkroom-cv](https://github.com/alecremer/Darkroom-CV)
 
 **Stack:** Python, PyTorch  
 
